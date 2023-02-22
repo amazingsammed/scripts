@@ -1,0 +1,3 @@
+dependencies:
+  sqflite: ^2.0.0+4
+  sqflite_sqlcipher: ^1.0.0+1
