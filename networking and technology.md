@@ -73,6 +73,44 @@ Computer Network topology is the way the systems on the network are physically a
 * **Glass** (fibre optic cables)
 * **Air** (wireless)
 
+#### Differences between wire and cable
+A wire is defined as a single or one electrical conductor where cable is a group of conductors.
+
+#### Twisted pair cables
+it is made up of 8 magnetic wires.it is a category of guided media.
+there are two types namely 
+* Sheilded twisted pair
+* Un-sheilded twisted pair
+
+
+## Network Protocols
+protocol is a set of rules and procedures or instructions that define how computers and other computing devices interact with each other,
+
+### Types of protocols
+Hardware Protocols
+Software Protocols
+
+### functions of the types of network protocols
+
+They enable communication
+They enhances security of the network
+they may support network management
+
+### organisations who have developed and publish some protocols
+> IEEE - Institute of Electrical and Electronic Engineers 
+>
+> IETF - Internet Engineering Task Force
+>
+> ISO  - International Organization for Standardization
+
+**Network protocols** are established procedures and rules that define how systems in a computer environment relate to each other in terms of communication,management and security.
+
+protocols used in computer environment all falls under 3 main protocol type
+1. Application protocol {OSI MODEL 5 ,6 ,7}
+2. Transport protocol {OSI MODEL 4}
+3. Network protocol {OSI MODEL 1, 2, 3}
+
+
 
 
 
