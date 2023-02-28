@@ -25,17 +25,18 @@ circumstances over a relatively short period.
 5. Revaluation of the business
 
 ### Factors that Create Goodwill
-(1) Excellent reputation of quality and reliability of products and/or services:
-(2) Strategic location of the business premises or Site monopoly:
-(3) Good relationship with suppliers
-(4) Good labour relations
-(5) Patent and trademark protection
-(6) Effective promotion
-(7) Superior management team
-(8) Weakness in management of a competitor
-(9) Access to source of supply
-(10) Effective research and development programmes
-(11) Freedom from legislative restrictions
+1.  Excellent reputation of quality and reliability of products and/or services:
+2.  Strategic location of the business premises or Site monopoly:
+3.  Good relationship with suppliers
+4.  Good labour relations
+5.  Patent and trademark protection
+6.  Effective promotion
+7.  Superior management team
+8.  Weakness in management of a competitor
+9.  Access to source of supply
+10.  Effective research and development programmes
+11.  Freedom from legislative restrictions
+
 
 
 ### Methods of Valuing Goodwill
