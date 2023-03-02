@@ -62,12 +62,131 @@ This can be considered as a method for converting resources into goods and servi
 **Competitive priorities** is the characteristics that a firm production and operation system must possess to support the business strategy in order to meet the demands of the markets in which the firm wishes to compete.
 
 ### Basic Competitive priorities
-* Quality
-* Cost
-* Delivery
-* Flexibility
-* Customer focus
-* Know-how
+* Quality  
+(`providing high quality goods`)
+* Cost  
+(`ability to manage production cost`)
+* Delivery  
+(`how quickly goods and services are delivered to customers`)
+* Flexibility  
+(`ability to deploy and redeploy resources in response to changes in customer preferences`)
+* Customer focus  
+(`concerntrates on fulfiling customers needs`)
+* Know-how  
+(`decreasing product life cycle`)
+
+### SBU's
+Strategic business units
+
+#### Micheal porter , 3 generic business strategy
+* Cost Leadership
+(`competing mainly on pricing`)
+* Differentiation
+(`distinguish its products from competitors`)
+* Focus Strategies
+(`2 above on a narrow segment`)
+
+#### business competing on cost ensures the following
+
+* Elimination of activities that do not add value
+* Too much stock must be avoided
+* Reduce wastage
+* Use well trained staffs
+* All machines and equipment works perfectly
+
+### Production system
+
+Production system is a framework of activities within which the creation of value can occur
+
+### characteristics of production system
+
+1. production is an organised activity
+2. the system convert various input to useful output
+3. there exist feedback
+4. it does not operate in isolation from other organisation systems
+
+### 2 basic types of production systems
+1. Continuous Production
+(`is operates non-stop`)
+`types are mass and flow production`
+2. Intermittent Production
+(`start and stops at irregular intervals`)
+
+
+### characteristics of Continuous production 
+1. The flow of production is continuous
+2. The products are Standardized
+3. The products are produced of predetermined quality standards
+4. The products are produced in anticipation of demand
+5. Standardized routing sheets are prepared
+
+### characteristics of Intermittent production 
+1. The flow of production is not continuous
+2. wide varieties of products are produced
+3. General purpose machines are used
+4. operation changes as per design
+5. The volume of production is usually small
+
+### Components of Production and operations design
+1. System design
+2. System Operations
+
+
+**System design** involves the decisions that relate to system capacity, the geographic location of facilities, arrangement of department and many others.theses decisions usually requires long-term commitment
+
+ **System Operations** involves the management of personnel ,inventory planning and control and quality assurances
+ 
+ 
+# level 3
+
+## Differentiating features of production systems
+1. Degree of Standardization
+2. Type of operation
+3. Customer contact
+4. Uniformity of input
+5. Uniformity of output
+6. Measurement of productivity
+7. quality assurances
+
+### Forecasting
+**Forecasting** involves the guiding of future activities towards an organisational goal
+#### Element of good forcast
+1. Timeliness
+2. Accuracy
+3. Reliability
+4. Meaningful
+5. Simplicity
+6. Writing
+
+### steps in forcasting
+1. determine the purpose for the forcast
+2. Establish a time horizon
+3. Select a forcasting technique
+4. Gather and analyse appropriate data
+5. prepare the forecast
+6. monitor the forecast
+
+
+### types of forecast
+Qualitative forcasts
+(`consist of the opinions of sales people or top management personnel or combine`)
+Time Series forcast
+(`uses past happenings to predict future events`)
+Causal Forcast
+(`identify whatever will have a cause effect relationship, example advertising`)
+Simulation
+(`use of computer based math model to pridict the future`)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
