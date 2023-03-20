@@ -14,8 +14,8 @@ circumstances over a relatively short period.
 5. The assessment of goodwill is very subjective.
 
 ### Types of Goodwill
-(1) Purchased Goodwill { *when a business purchase another business*}
-(2) Non-purchased Goodwill { *It is the internally generated goodwill.* }
+1. Purchased Goodwill { *when a business purchase another business*}
+2. Non-purchased Goodwill { *It is the internally generated goodwill.* }
 
 ### Instances Where Goodwill is Valued
 1. Admission of a new partner(s)
@@ -63,7 +63,7 @@ Three methods are normally used to deal with goodwill. The methods include:
 2. In the absence of a partnership deed, the admission of a new partner(s) is governed by the partnership Act 152. Among other things, the Act states that no person may be introduced as a partner without his/her consent and the consent of all existing partners.
 3. When a new partner(s) is introduced into the partnership, he or she is entitled to a share of future profits (or losses) of the firm. 
 4. New partners contribute to the firm certain sum of money in terms of capital. This is credited to his/her capital account.
-5. In addition to this, in certain situations, the partner will normally be asked to pay some amount in respect of goodwill, and this is regarded as a premium. The premium is his contribution to the goodwill built up by the existing partners before his/her admission.
+5. In addition to this, in certain situations, the partner will normally be asked to pay some amount in respect of goodwill, and this is regarded as a **premium.** The premium is his contribution to the goodwill built up by the existing partners before his/her admission.
 6. Whenever a new partner is admitted, goodwill is valued and, shared among the 
 existing partners. 
 

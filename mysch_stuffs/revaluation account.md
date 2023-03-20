@@ -5,7 +5,7 @@
 ### When Revaluation Becomes Necessary
 * Whenever there is a change in profit and loss sharing ratio, which results from a change 
 in partnership, there is the need to undertake revaluation of assets and liabilities.
-* The following circumstances will result in a change in partnership and hence, a charge in the profit and loss sharing ratio.
+* The following circumstances will result in a change in partnership and hence, a change in the profit and loss sharing ratio.
 1. Admission of new partners
 2. Retirement or death of a partner
 3. The need to show the true value of the business:
